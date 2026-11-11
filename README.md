@@ -1,29 +1,32 @@
 # Hi there, I'm Mallela Nitesh Raj 👋
 
-**Specialist Programmer | AI & DevOps Automation | Azure Data Engineering**
+**Specialist Programmer | Azure & GCP Data Engineering | AI & DevOps Automation**
 
-I am a software and data engineer specializing in building intelligent automation and managing scalable cloud infrastructure. [cite_start]I focus on bridging the gap between **Generative AI** and **DevOps** to streamline complex workflows and modernize high-scale data systems.
+I'm a data engineer who builds enterprise-scale ETL pipelines and the automation around them. I work across **Azure Databricks**, **Microsoft Fabric**, and **Google BigQuery**, and I apply **Generative AI** to DevOps workflows to cut manual effort.
 
 ### 🚀 Key Highlights
 
-* **AI-Powered DevOps:** Built a Python-based automation tool using Gemini AI to transform raw CSV data into structured Azure DevOps work items, reducing manual entry by **90%**.
-* **Data Engineering at Scale:** Optimizing high-concurrency data pipelines in **Azure Databricks (Spark 15.4.x)** to deliver MoM and YoY approval rate insights for Azure Billing datasets.
-* **Intelligent Agents:** Developed a Privacy Agent in **Copilot Studio** to automate dataflow diagram generation for Microsoft Teams and M365.
-* **Cloud Infrastructure:** Expert in managing large-scale resource migrations using **ARM templates** and Azure DevOps REST APIs.
-* **ML Research:** Created an unsupervised deepfake detection approach using contrastive learning, achieving **75% accuracy**.
+* **Data Engineering at Scale:** Built ETL pipelines in **Azure Databricks (Spark 15.4.x)** with PySpark and Spark SQL on Azure Billing datasets, delivering **MoM and YoY approval rate insights** and global churn analysis.
+* **BigQuery on GCP:** Developing and unit-testing **BigQuery stored procedures** for multiple countries from Source-to-Target Mapping (STTM) documents for Mondelez.
+* **AI-Powered DevOps:** Built a Python automation tool using Gemini AI that turns raw backlog data into structured Azure DevOps work items, cutting manual entry time by **90%**.
+* **Cloud Infrastructure:** Migrated all resources from a shared Azure subscription to an independent environment using **ARM templates**, and used Azure DevOps REST APIs to manage sprints and work items.
+* **Analytics:** Built **Power BI** dashboards for payment operations, working with Microsoft FTEs on data quality.
+* **ML Research:** Created an unsupervised deepfake detection approach using contrastive learning, achieving **75% accuracy** with no labeled data.
 
 ### 🛠 Technical Toolbox
 
-* **Languages:** Python, PySpark, SQL (Advanced), Java, C++, C
-* **Cloud & DevOps:** Azure, ARM Templates, Azure DevOps API, Log Analytics, Git/GitHub
-* **Data & AI:** Azure Databricks, Machine Learning (Scikit-learn, NumPy, Pandas), Gemini AI, Copilot Studio
-* **Analysis:** Power BI, Churn Analysis, MoM/YoY Trend Analysis, Root Cause Investigation
+* **Languages:** Python, PySpark, SQL (Advanced), DAX, Java, C++, C
+* **Big Data & Cloud:** Azure Databricks, Google BigQuery, Microsoft Fabric, OneLake, Dataflows Gen2, ADLS, Delta Lake, Azure Data Factory
+* **DevOps & Tools:** Azure DevOps (REST APIs), ARM Templates, Git/GitHub, SQL Server
+* **Analysis:** Power BI, Churn Analysis, MoM/YoY Trend Analysis, Data Modeling, Semantic Models
 
-### 🎓 Education & Experience
+### 🎓 Education, Experience & Certifications
 
 * **Specialist Programmer** at Infosys Limited (Bengaluru), collaborating with Microsoft FTEs
 * **B.Tech in Computer Science** from IIITDM Kurnool (CGPA: 7.43)
-* **Amazon ML Summer School** Alumnus
+* Microsoft Certified: **Fabric Data Engineer Associate** | **Fabric Analytics Engineer Associate**
+* Oracle Certified: **Agentic AI Foundations Associate**
+* **Amazon ML Summer School 2023** Alumnus
 
 ### 📫 Let's Connect
 
